@@ -8,7 +8,7 @@ export default {
   title: 'Agenda · AIQU Executive Majlis 2026',
   description: 'Agenda for the AIQU Executive Majlis: two executive panels, a closed-door Majlis conversation and a networking lunch. Tuesday, 24 November 2026, Dubai.',
   render: () => `
-${pageHero('Agenda', 'Agenda <span class="grad-text">at a glance</span>', 'Tuesday, 24 November 2026 · 9:00 AM – 1:30 PM · Dubai. One morning, three conversations and a private lunch.', 'room-wide.jpg')}
+${pageHero('Agenda', 'Agenda <span class="grad-text">at a glance</span>', 'Tuesday, 24 November 2026 · 9:00 AM – 1:30 PM · Dubai. One morning, three conversations and a private lunch.', 'stage.jpg')}
 
     <section class="section">
       <div class="wrap agenda-wrap">
@@ -42,7 +42,7 @@ ${pageHero('Agenda', 'Agenda <span class="grad-text">at a glance</span>', 'Tuesd
 
         <article class="session">
           <div class="session-head">
-            <img src="/assets/img/majlis-speaker.jpg" alt="" aria-hidden="true">
+            <img src="/assets/img/pen2.jpg" alt="" aria-hidden="true">
             <div>
               <span class="kicker">Executive Panel I</span><span class="time-pill">10:00 – 10:45 AM</span>
               <h3>The AI Arms Race in Financial Crime</h3>
@@ -62,7 +62,7 @@ ${pageHero('Agenda', 'Agenda <span class="grad-text">at a glance</span>', 'Tuesd
 
         <article class="session">
           <div class="session-head">
-            <img src="/assets/img/stage-ai.jpg" alt="" aria-hidden="true">
+            <img src="/assets/img/ics.jpg" alt="" aria-hidden="true">
             <div>
               <span class="kicker">Executive Panel II</span><span class="time-pill">11:00 – 11:45 AM</span>
               <h3>Beyond Detection</h3>

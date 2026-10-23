@@ -20,7 +20,7 @@ export default {
   title: 'Why Join · AIQU Executive Majlis 2026',
   description: 'Why take a seat at the AIQU Executive Majlis: a closed-door peer conversation for 10–15 senior banking and financial crime leaders in Dubai.',
   render: () => `
-${pageHero('Why Join', 'Why take a seat <span class="grad-text">at the Majlis</span>', 'A morning of candid peer conversation, not presentations. Quality of conversation, quality of audience and commercial relevance.', 'room-ushape.jpg')}
+${pageHero('Why Join', 'Why take a seat <span class="grad-text">at the Majlis</span>', 'A morning of candid peer conversation, not presentations. Quality of conversation, quality of audience and commercial relevance.', 'room-hero.jpg')}
 
     <section class="section">
       <div class="wrap">
@@ -62,7 +62,7 @@ ${pageHero('Why Join', 'Why take a seat <span class="grad-text">at the Majlis</s
             <p style="margin-top:1.6rem;color:#c4b9da">Speaking enquiries: <a href="mailto:info@plexusas.com" style="color:#c4a0f5">info@plexusas.com</a></p>
             <div class="hero-cta" style="margin-top:1.6rem"><a href="${REGISTER_URL}" target="_blank" rel="noopener" class="btn btn-blue">Register now ${arrow}</a></div>
           </div>
-          <div class="split-img"><img src="/assets/img/majlis-speaker.jpg" alt="A speaker addressing a recent Plexus Global Majlis" loading="lazy"></div>
+          <div class="split-img"><img src="/assets/img/phone-photo.jpg" alt="A recent Plexus Global event" loading="lazy"></div>
         </div>
       </div>
     </section>

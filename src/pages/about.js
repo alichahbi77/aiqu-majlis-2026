@@ -53,6 +53,7 @@ ${pageHero('About', 'Your technology partner <span class="grad-text">for an AI-d
           <img src="/assets/img/client-sabic.png" alt="SABIC">
           <img src="/assets/img/client-fab.png" alt="First Abu Dhabi Bank">
           <img src="/assets/img/client-riyad-bank.png" alt="Riyad Bank">
+          <img src="/assets/img/client-sami.png" alt="SAMI">
         </div>
         <p style="margin-top:2rem;color:#c4b9da"><a href="https://aiqusolutions.com" target="_blank" rel="noopener" style="color:#c4a0f5">aiqusolutions.com</a></p>
       </div>
@@ -68,11 +69,11 @@ ${pageHero('About', 'Your technology partner <span class="grad-text">for an AI-d
         </div>
         <div>
           <div class="photo-grid">
-            <img src="/assets/img/room-wide.jpg" alt="A recent Plexus Global Majlis" loading="lazy">
-            <img src="/assets/img/networking-1.jpg" alt="" loading="lazy">
-            <img src="/assets/img/majlis-speaker.jpg" alt="" loading="lazy">
+            <img src="/assets/img/stage.jpg" alt="A recent Plexus Global event" loading="lazy">
+            <img src="/assets/img/ics.jpg" alt="" loading="lazy">
+            <img src="/assets/img/ics2.jpg" alt="" loading="lazy">
           </div>
-          <p class="cap">A recent Plexus Global Majlis</p>
+          <p class="cap">A recent Plexus Global event</p>
         </div>
       </div>
       <div class="wrap" style="margin-top:2.6rem">

@@ -6,7 +6,7 @@ export const cta = () => `
     <section class="section">
       <div class="wrap">
         <div class="cta-banner">
-          <div class="bg" aria-hidden="true"><img src="/assets/img/room-wide.jpg" alt=""></div>
+          <div class="bg" aria-hidden="true"><img src="/assets/img/purple-bg.jpg" alt=""></div>
           <div>
             <span class="eyebrow" style="color:var(--lavender)">Tuesday, 24 November 2026 · Dubai</span>
             <h2>From AI ambition to <span class="grad-text">compliance reality.</span></h2>
@@ -21,7 +21,7 @@ export const cta = () => `
     </section>
 `;
 
-export const pageHero = (crumb, title, text, img = 'room-wide.jpg') => `
+export const pageHero = (crumb, title, text, img = 'audience.jpg') => `
     <section class="page-hero">
       <div class="bg" aria-hidden="true"><img src="/assets/img/${img}" alt=""></div>
       <div class="wrap">

@@ -46,7 +46,7 @@ export default {
 
       <div class="partners">
         <div class="wrap">
-          <div class="partner"><span>Organised by</span><img src="/assets/img/plexus-logo.png" alt="Plexus Global" class="plx"></div>
+          <div class="partner"><span>Organised by</span><div class="logo-chip"><img src="/assets/img/plexus-logo.png" alt="Plexus Global" class="plx"></div></div>
           <div class="partner"><span>Powered by</span><div class="logo-chip"><img src="/assets/img/techforge-logo.png" alt="TechForge Global"><img src="/assets/img/cyberforge-logo.png" alt="CyberForge Global"></div></div>
         </div>
       </div>
@@ -65,11 +65,11 @@ export default {
           </div>
           <div>
             <div class="photo-grid">
-              <img src="/assets/img/room-ushape.jpg" alt="A recent Plexus Global Majlis" loading="lazy">
-              <img src="/assets/img/networking-1.jpg" alt="Delegates networking" loading="lazy">
-              <img src="/assets/img/networking-2.jpg" alt="Delegates in conversation" loading="lazy">
+              <img src="/assets/img/audience.jpg" alt="A recent Plexus Global event" loading="lazy">
+              <img src="/assets/img/phone.jpg" alt="" loading="lazy">
+              <img src="/assets/img/pen.jpg" alt="" loading="lazy">
             </div>
-            <p class="cap">A recent Plexus Global Majlis</p>
+            <p class="cap">A recent Plexus Global event</p>
           </div>
         </div>
         <div class="stat-row" style="margin-top:3rem">
@@ -85,7 +85,7 @@ export default {
       <div class="wrap">
         <div class="session" style="margin-bottom:3rem">
           <div class="session-head" style="padding:clamp(2rem,5vw,4rem)">
-            <img src="/assets/img/stage-ai.jpg" alt="" aria-hidden="true">
+            <img src="/assets/img/phone-photo.jpg" alt="" aria-hidden="true">
             <div>
               <span class="kicker">02 · The central theme</span>
               <h2 class="big-quote" style="max-width:26ch">Can AI help banks fight financial crime <span class="grad-text">faster than criminals can evolve?</span></h2>
@@ -114,6 +114,7 @@ export default {
           <div><span class="eyebrow">03 · The audience</span><h2>Who should be<br>in the room?</h2></div>
           <p>10–15 senior decision-makers from leading UAE banks and financial institutions: leaders who own financial crime compliance challenges, budgets and operational outcomes.</p>
         </div>
+        <div class="desk-card"><img src="/assets/img/desk.jpg" alt="" loading="lazy"><div><small>Banking-focused</small><b>Leading UAE banks &amp; financial institutions</b></div></div>
         <div class="attend-grid">
           ${audience.map((a, i) => `<div class="attend-item"><b>0${i + 1}</b>${a.replace('&', '&amp;')}</div>`).join('\n          ')}
         </div>

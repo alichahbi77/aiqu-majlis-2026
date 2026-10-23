@@ -51,7 +51,6 @@ export const footer = () => `
         <div>
           <h4>Registration &amp; enquiries</h4>
           <ul>
-            <li>Arwa Chahbi, Group Director, Plexus Global</li>
             <li><a href="tel:+971564010080">+971 56 401 0080</a></li>
             <li><a href="mailto:info@plexusas.com">info@plexusas.com</a></li>
           </ul>
@@ -66,7 +65,7 @@ export const footer = () => `
         <p>© 2026 AIQU Executive Majlis · Dubai</p>
         <div class="orgs">
           <span>Organised by</span>
-          <img src="/assets/img/plexus-logo.png" alt="Plexus Global" class="plx">
+          <div class="logo-chip"><img src="/assets/img/plexus-logo.png" alt="Plexus Global" class="plx"></div>
           <span>Powered by</span>
           <div class="logo-chip"><img src="/assets/img/techforge-logo.png" alt="TechForge Global"><img src="/assets/img/cyberforge-logo.png" alt="CyberForge Global"></div>
         </div>

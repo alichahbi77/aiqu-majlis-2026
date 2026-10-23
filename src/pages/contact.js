@@ -3,9 +3,9 @@ import { arrow, pageHero } from './_shared.js';
 
 export default {
   title: 'Register & Contact · AIQU Executive Majlis 2026',
-  description: 'Register for the AIQU Executive Majlis, 24 November 2026, Dubai, or contact Arwa Chahbi at Plexus Global.',
+  description: 'Register for the AIQU Executive Majlis, 24 November 2026, Dubai, or contact Plexus Global.',
   render: () => `
-${pageHero('Contact', 'Register &amp; <span class="grad-text">Contact</span>', 'Confirm your seat at the AIQU Executive Majlis, or reach the organising team with any question.', 'room-hero.jpg')}
+${pageHero('Contact', 'Register &amp; <span class="grad-text">Contact</span>', 'Confirm your seat at the AIQU Executive Majlis, or reach the organising team with any question.', 'purple-bg.jpg')}
 
     <section class="section">
       <div class="wrap">
@@ -24,8 +24,6 @@ ${pageHero('Contact', 'Register &amp; <span class="grad-text">Contact</span>', '
 
           <div class="panel">
             <span class="eyebrow">Registration &amp; enquiries</span>
-            <h2>Arwa Chahbi</h2>
-            <p>Group Director, Plexus Global. For registration, speaking or partnership questions.</p>
             <ul class="detail-list">
               <li><span class="ic"><svg viewBox="0 0 24 24"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/></svg></span><div><small>Phone</small><a href="tel:+971564010080">+971 56 401 0080</a></div></li>
               <li><span class="ic"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg></span><div><small>Email</small><a href="mailto:info@plexusas.com">info@plexusas.com</a></div></li>
