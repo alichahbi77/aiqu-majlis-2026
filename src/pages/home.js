@@ -40,14 +40,14 @@ export default {
         </div>
 
         <div class="hero-host">
-          <div class="host-item aiqu"><span>Hosted by</span><img src="/assets/img/aiqu-logo-white.png" alt="AIQU, powered by TASC"></div>
+          <div class="host-item aiqu"><span>Hosted by</span><img src="/assets/img/aiqu-logo-white-v2.png" alt="AIQU, powered by TASC"></div>
         </div>
       </div>
 
       <div class="partners">
         <div class="wrap">
-          <div class="partner"><span>Organised by</span><div class="logo-chip"><img src="/assets/img/plexus-logo.png" alt="Plexus Global" class="plx"></div></div>
-          <div class="partner"><span>Powered by</span><div class="logo-chip"><img src="/assets/img/techforge-logo.png" alt="TechForge Global"><img src="/assets/img/cyberforge-logo.png" alt="CyberForge Global"></div></div>
+          <div class="partner"><span>Organised by</span><div class="logo-chip"><img src="/assets/img/plexus-logo-v2.png" alt="Plexus Global" class="plx"></div></div>
+          <div class="partner"><span>Powered by</span><div class="logo-chip"><img src="/assets/img/techforge-logo-v2.png" alt="TechForge Global"><img src="/assets/img/cyberforge-logo-v2.png" alt="CyberForge Global"></div></div>
         </div>
       </div>
     </section>

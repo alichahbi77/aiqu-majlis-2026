@@ -15,7 +15,7 @@ export const NAV = [
 export const header = () => `
   <header class="nav">
     <div class="nav-inner">
-      <a href="/" class="nav-logo"><img src="/assets/img/aiqu-logo-white.png" alt="AIQU, powered by TASC"></a>
+      <a href="/" class="nav-logo"><img src="/assets/img/aiqu-logo-white-v2.png" alt="AIQU, powered by TASC"></a>
       <input type="checkbox" id="menu" class="menu-toggle" aria-label="Toggle menu">
       <label for="menu" class="menu-icon"><span></span></label>
       <nav class="nav-links">
@@ -31,7 +31,7 @@ export const footer = () => `
     <div class="wrap">
       <div class="footer-grid">
         <div>
-          <img src="/assets/img/aiqu-logo-white.png" alt="AIQU, powered by TASC" class="f-logo">
+          <img src="/assets/img/aiqu-logo-white-v2.png" alt="AIQU, powered by TASC" class="f-logo">
           <p class="about-text">AIQU Executive Majlis 2026 · Financial Crime Compliance in the Age of AI. An invitation-only conversation for senior banking and financial crime leaders.</p>
         </div>
         <div>
@@ -65,9 +65,9 @@ export const footer = () => `
         <p>© 2026 AIQU Executive Majlis · Dubai</p>
         <div class="orgs">
           <span>Organised by</span>
-          <div class="logo-chip"><img src="/assets/img/plexus-logo.png" alt="Plexus Global" class="plx"></div>
+          <div class="logo-chip"><img src="/assets/img/plexus-logo-v2.png" alt="Plexus Global" class="plx"></div>
           <span>Powered by</span>
-          <div class="logo-chip"><img src="/assets/img/techforge-logo.png" alt="TechForge Global"><img src="/assets/img/cyberforge-logo.png" alt="CyberForge Global"></div>
+          <div class="logo-chip"><img src="/assets/img/techforge-logo-v2.png" alt="TechForge Global"><img src="/assets/img/cyberforge-logo-v2.png" alt="CyberForge Global"></div>
         </div>
       </div>
     </div>

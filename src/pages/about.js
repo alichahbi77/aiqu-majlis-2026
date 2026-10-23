@@ -82,7 +82,7 @@ ${pageHero('About', 'Your technology partner <span class="grad-text">for an AI-d
         </div>
         <div class="session" style="margin-top:2rem"><div class="session-body" style="display:flex;gap:2rem;align-items:center;flex-wrap:wrap;justify-content:space-between">
           <div style="max-width:56ch"><span class="eyebrow">Our technology platforms</span><p style="margin:0;color:var(--muted)">TechForge Global and CyberForge Global convene technology and cybersecurity leaders across the UAE, Saudi Arabia, Bahrain and beyond.</p></div>
-          <div class="logo-chip" style="border:1px solid var(--line)"><img src="/assets/img/techforge-logo.png" alt="TechForge Global"><img src="/assets/img/cyberforge-logo.png" alt="CyberForge Global"></div>
+          <div class="logo-chip" style="border:1px solid var(--line)"><img src="/assets/img/techforge-logo-v2.png" alt="TechForge Global"><img src="/assets/img/cyberforge-logo-v2.png" alt="CyberForge Global"></div>
         </div></div>
       </div>
     </section>
