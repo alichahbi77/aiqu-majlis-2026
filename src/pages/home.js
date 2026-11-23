@@ -15,7 +15,7 @@ const audience = [
 
 export default {
   title: 'AIQU Executive Majlis 2026 · Financial Crime Compliance in the Age of AI',
-  description: 'An invitation-only Majlis for senior banking and financial crime leaders. Tuesday, 24 November 2026, Dubai. Hosted by AIQU, organised by Plexus Global.',
+  description: 'An invitation-only Majlis for senior banking and financial crime leaders. Wednesday, 9 December 2026, Dubai. Hosted by AIQU, organised by Plexus Global.',
   render: () => `
     <section class="hero">
       <div class="hero-bg" aria-hidden="true"><img src="/assets/img/room-hero.jpg" alt=""></div>
@@ -27,7 +27,7 @@ export default {
 
           <div class="info-row">
             <div class="info-box">
-              <div><span class="info-label">Date</span><span class="info-val">24 November</span><span class="info-sub">Tuesday, 2026</span></div>
+              <div><span class="info-label">Date</span><span class="info-val">9 December</span><span class="info-sub">Wednesday, 2026</span></div>
               <div><span class="info-label">Location</span><span class="info-val">Dubai, UAE</span><span class="info-sub">Venue to be announced</span></div>
             </div>
             <div class="info-plain"><span class="info-label">Format</span><span class="info-val">10–15 senior banking &amp;<br>financial crime leaders</span></div>

@@ -6,14 +6,14 @@ const li = (time, kind, title, text = '', brk = false) =>
 
 export default {
   title: 'Agenda · AIQU Executive Majlis 2026',
-  description: 'Agenda for the AIQU Executive Majlis: two executive panels, a closed-door Majlis conversation and a networking lunch. Tuesday, 24 November 2026, Dubai.',
+  description: 'Agenda for the AIQU Executive Majlis: two executive panels, a closed-door Majlis conversation and a networking lunch. Wednesday, 9 December 2026, Dubai.',
   render: () => `
-${pageHero('Agenda', 'Agenda <span class="grad-text">at a glance</span>', 'Tuesday, 24 November 2026 · 9:00 AM – 1:30 PM · Dubai. One morning, three conversations and a private lunch.', 'stage.jpg')}
+${pageHero('Agenda', 'Agenda <span class="grad-text">at a glance</span>', 'Wednesday, 9 December 2026 · 9:00 AM – 1:30 PM · Dubai. One morning, three conversations and a private lunch.', 'stage.jpg')}
 
     <section class="section">
       <div class="wrap agenda-wrap">
         <aside class="agenda-side">
-          <h3>Tuesday,<br>24 November 2026</h3>
+          <h3>Wednesday,<br>9 December 2026</h3>
           <ul>
             <li><svg viewBox="0 0 24 24"><path d="M12 21s-7-6.2-7-12a7 7 0 0 1 14 0c0 5.8-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg> Dubai, UAE · venue to be announced</li>
             <li><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg> 9:00 AM – 1:30 PM</li>

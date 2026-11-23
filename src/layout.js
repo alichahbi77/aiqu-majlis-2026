@@ -43,7 +43,7 @@ export const footer = () => `
         <div>
           <h4>Event</h4>
           <ul>
-            <li>Tuesday, 24 November 2026</li>
+            <li>Wednesday, 9 December 2026</li>
             <li>Dubai, UAE</li>
             <li><a href="${REGISTER_URL}" target="_blank" rel="noopener">Register Now</a></li>
           </ul>

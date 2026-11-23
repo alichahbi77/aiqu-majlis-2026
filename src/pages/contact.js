@@ -3,7 +3,7 @@ import { arrow, pageHero } from './_shared.js';
 
 export default {
   title: 'Register & Contact · AIQU Executive Majlis 2026',
-  description: 'Register for the AIQU Executive Majlis, 24 November 2026, Dubai, or contact Plexus Global.',
+  description: 'Register for the AIQU Executive Majlis, 9 December 2026, Dubai, or contact Plexus Global.',
   render: () => `
 ${pageHero('Contact', 'Register &amp; <span class="grad-text">Contact</span>', 'Confirm your seat at the AIQU Executive Majlis, or reach the organising team with any question.', 'purple-bg.jpg')}
 
@@ -15,7 +15,7 @@ ${pageHero('Contact', 'Register &amp; <span class="grad-text">Contact</span>', '
             <h2>Register now</h2>
             <p>Seats are limited to 10–15 executives and strictly by invitation. Register online to confirm your seat.</p>
             <ul class="detail-list">
-              <li><span class="ic"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg></span><div><small>Date</small>Tuesday, 24 November 2026</div></li>
+              <li><span class="ic"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg></span><div><small>Date</small>Wednesday, 9 December 2026</div></li>
               <li><span class="ic"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></span><div><small>Time</small>9:00 AM – 1:30 PM</div></li>
               <li><span class="ic"><svg viewBox="0 0 24 24"><path d="M12 21s-7-6.2-7-12a7 7 0 0 1 14 0c0 5.8-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg></span><div><small>Location</small>Dubai, UAE · venue to be announced</div></li>
             </ul>

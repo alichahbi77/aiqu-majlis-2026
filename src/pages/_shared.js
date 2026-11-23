@@ -8,7 +8,7 @@ export const cta = () => `
         <div class="cta-banner">
           <div class="bg" aria-hidden="true"><img src="/assets/img/purple-bg.jpg" alt=""></div>
           <div>
-            <span class="eyebrow" style="color:var(--lavender)">Tuesday, 24 November 2026 · Dubai</span>
+            <span class="eyebrow" style="color:var(--lavender)">Wednesday, 9 December 2026 · Dubai</span>
             <h2>From AI ambition to <span class="grad-text">compliance reality.</span></h2>
             <p>10–15 banking leaders · one room · one morning. Seats are limited and strictly by invitation.</p>
           </div>
